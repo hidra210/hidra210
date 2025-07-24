@@ -61,4 +61,4 @@ Soy una persona apasionada de las matemáticas, la informática y la tecnología
 📍 Madrid, España | 📧 maria.moronta.carrion@gmail.com  
 ### 🔗 Conecta conmigo  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mar%C3%ADa-moronta-carri%C3%B3n-1207b029a)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hidra210)
