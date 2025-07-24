@@ -54,8 +54,8 @@
 ## 🏆 Logros  
 
 - 🥈 Finalista Olimpiada Informática Femenina (2021)  
-- 🏅 Mención Honorífica en Bachillerato  
-- 🚀 Participación en Tech Challenge (HP, 2022)  
+- 🏅 Mención Honorífica en Bachillerato y en la ESO
+- 🚀 Participación en el Hackathon Tech Challenge (HP, 2022)  
 
 ---
 
