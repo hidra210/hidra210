@@ -58,7 +58,7 @@ Soy una persona apasionada de las matemáticas, la informática y la tecnología
 ---
 
 ## 📫 Contacto  
-<p align="left">
-<a href="[https://linkedin.com/in/maría-moronta-carrión](https://www.linkedin.com/in/mar%C3%ADa-moronta-carri%C3%B3n-1207b029a/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maría-moronta-carrión" height="30" width="40" /></a>
-</p>
-📍 Madrid, España | 📧 maria.moronta.carrion@gmail.com | 📞 672 78 33 62  
+📍 Madrid, España | 📧 maria.moronta.carrion@gmail.com  
+### 🔗 Conecta conmigo  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mar%C3%ADa-moronta-carri%C3%B3n-1207b029a)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
