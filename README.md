@@ -4,7 +4,9 @@
 ---
 
 ## 🚀 Sobre mí  
-Soy una persona apasionada de las matemáticas, la informática y la tecnología, con especial interés en **IA**, **desarrollo de software** e **innovación social**. Destaco por mi **iniciativa, resiliencia y dinamismo**. Considero que la tecnología debe ser **por y para las personas**.
+✨ Me apasionan las matemáticas, la informática y todo lo relacionado con la tecnología. Siento un interés especial por la inteligencia artificial, el desarrollo de software y la innovación social. Soy una persona con mucha iniciativa, resiliente y dinámica, siempre buscando formas creativas de aportar soluciones que realmente generen impacto. Para mí, la tecnología tiene sentido cuando está pensada por y para las personas, con empatía y propósito.
+
+📝 También disfruto mucho escribiendo. Creo que las palabras tienen el poder de conectar ideas, inspirar y tender puentes entre lo real y lo intangible.
 
 ---
 
